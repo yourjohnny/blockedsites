@@ -1,0 +1,52 @@
+{
+"gopnikDict": {
+"home": {
+"gopnikizedWord": "dom",
+"description": "The word 'dom' is a casual word for home in Russian."
+},
+"dog": {
+"gopnikizedWord": "suka",
+"description": "The word 'suka' is a vulgar slang term of Russian origin, meaning 'bitch'."
+},
+"hello": {
+"gopnikizedWord": "privet",
+"description": "The word 'privet' is a casual greeting in Russian, similar to 'hi' or 'hello' in English."
+},
+"drunk": {
+"gopnikizedWord": "p'yan",
+"description": "The word 'p'yan' is a casual word for drunk in Russian."
+},
+"friend": {
+"gopnikizedWord": "druzhok",
+"description": "The word 'druzhok' is a casual word for friend in Russian."
+},
+"money": {
+"gopnikizedWord": "dengi",
+"description": "The word 'dengi' is a casual word for money in Russian."
+},
+"good": {
+"gopnikizedWord": "kharasho",
+"description": "The word 'kharasho' is a casual word for good in Russian."
+},
+"bad": {
+"gopnikizedWord": "ploho",
+"description": "The word 'ploho' is a casual word for bad in Russian."
+},
+"cool": {
+"gopnikizedWord": "krasivo",
+"description": "The word 'krasivo' is a casual word for cool in Russian."
+}
+},
+"synonymsDict": {
+"apartment": "home",
+"flat":"home",
+"residence":"home",
+"great":"good",
+"terrific":"good",
+"awesome":"good",
+"worst":"bad",
+"terrible":"bad",
+"nice":"cool",
+"amazing":"cool"
+}
+}
