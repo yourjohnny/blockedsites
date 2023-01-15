@@ -1,0 +1,19 @@
+{
+    "gopnikDict": {
+        "home": {
+            "gopnikizedWord": "dom",
+            "description": "The word 'dom' is a casual word for home in Russian."
+        },
+        "dog": {
+            "gopnikizedWord": "suka",
+            "description": "The word 'suka' is a vulgar slang term of Russian origin, meaning 'bitch'."
+        },
+        "hello": {
+            "gopnikizedWord": "privet",
+            "description": "The word 'privet' is a casual greeting in Russian, similar to 'hi' or 'hello' in English."
+        }
+    },
+    "synonymsDict": {
+        "apartment": "home"
+    }
+}
